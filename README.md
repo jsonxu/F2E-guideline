@@ -9,4 +9,5 @@
 以及根据自己经验上的积累进行补充和改编，谨此奉献给大家
 
 ##规范
-[javascript规范: https://github.com/jsonxu/F2E-guideline/blob/master/javascript_guide.md](https://github.com/jsonxu/F2E-guideline/blob/master/javascript_guide.md)
+###javascript规范
+[https://github.com/jsonxu/F2E-guideline/blob/master/javascript_guide.md](https://github.com/jsonxu/F2E-guideline/blob/master/javascript_guide.md)
