@@ -29,7 +29,6 @@
   1. [模块](#modules)
   1. [jQuery](#jquery)
   1. [ECMAScript5 兼容性](#ecmascript-5-compatibility)
-  1. [测试](#testing)
   1. [性能](#performance)
   1. [资源](#resources)
   1. [现状](#in-the-wild)
